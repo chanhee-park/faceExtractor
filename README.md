@@ -1,7 +1,7 @@
 # faceExtractor
 
-Extract faces from all image files in 'directory' and save them in 'out_src'. &nbsp;
-Photographs taken by several people work well also. &nbsp;&nbsp;
+Extract faces from all image files in 'directory' and save them in 'out_src'.<br/>
+Photographs taken by several people work well also.<br/><br/>
 
 
 ### 1. Download 'extractFace.py'. The path to the input file is relative to the path where the script is located.
