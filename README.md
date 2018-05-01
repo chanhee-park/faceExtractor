@@ -9,7 +9,7 @@ Photographs taken by several people work well also.<br/><br/>
 &nbsp;
 
 
-### 2. Install Package
+### 2. Install the Package
 ```
 pip3 install ObjectExtractor
 ```
@@ -18,6 +18,6 @@ pip3 install ObjectExtractor
 ### 3. Run
 &nbsp;
 
-### 4. See Result
+### 4. See the Result
 ![description3](https://github.com/chanhee13p/faceExtractor/blob/master/screenshots/screenshot2.png)
 &nbsp;
